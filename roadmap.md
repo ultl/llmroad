@@ -3,6 +3,7 @@
 ## Natural Language Processing
 
 - [DeepLearning.AI NLP Resources](https://www.deeplearning.ai/resources/natural-language-processing/)
+- [Two Minutes NLP: 33 Important NLP Tasks Explained](https://medium.com/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)
 
 ## Transformers
 
@@ -100,13 +101,14 @@
 - [Safe and Reliable AI via Guardrails](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails)
 - [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents)
 - [Reinforcement Fine-tuning LLMs with GRPO](https://learn.deeplearning.ai/courses/reinforcement-fine-tuning-llms-grpo/lesson/sjbja/introduction)
+- [YouTube Video on AI Agents](https://www.youtube.com/watch?v=FLpS7OfD5-s)
 
 ### Resources
 
 - [RAG Evaluation Guide](https://www.deepeval.com/guides/guides-rag-evaluation)
 - [AI Engineering Academy](https://github.com/adithya-s-k/AI-Engineering.academy)
 - [LinkedIn: Bhavishya Pandit](https://www.linkedin.com/in/bhavishya-pandit/)
-- [New White Paper](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view)
+- [Model Context Protocol](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view)
 
 ## Generative AI
 
