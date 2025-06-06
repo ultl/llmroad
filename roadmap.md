@@ -63,6 +63,7 @@
 ### Additional Resources
 
 - [Pre-training LLMs Course](https://learn.deeplearning.ai/courses/pretraining-llms)
+- [GPT-2 Fine-Tuning](https://github.com/omidiu/GPT-2-Fine-Tuning)
 
 ## Large Language Models
 
