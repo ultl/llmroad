@@ -4,6 +4,8 @@
 
 - [DeepLearning.AI NLP Resources](https://www.deeplearning.ai/resources/natural-language-processing/)
 - [Two Minutes NLP: 33 Important NLP Tasks Explained](https://medium.com/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)
+- [Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
+- [Natural Language Processing Specialization](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization)
 
 ## Transformers
 
