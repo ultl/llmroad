@@ -112,6 +112,7 @@
 - [AI Engineering Academy](https://github.com/adithya-s-k/AI-Engineering.academy)
 - [LinkedIn: Bhavishya Pandit](https://www.linkedin.com/in/bhavishya-pandit/)
 - [Model Context Protocol](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view)
+- [New White Paper on AI Agents - IMPORTANT](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view?usp=sharing)
 
 ## Generative AI
 
