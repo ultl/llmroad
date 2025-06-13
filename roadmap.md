@@ -110,6 +110,7 @@
 ### Resources
 
 - [RAG Evaluation Guide](https://www.deepeval.com/guides/guides-rag-evaluation)
+- [All RAG Techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
 - [AI Engineering Academy](https://github.com/adithya-s-k/AI-Engineering.academy)
 - [LinkedIn: Bhavishya Pandit](https://www.linkedin.com/in/bhavishya-pandit/)
 - [Model Context Protocol](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view)
