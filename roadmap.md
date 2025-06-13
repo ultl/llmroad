@@ -75,6 +75,7 @@
 - [Improving Accuracy of LLM Applications](https://learn.deeplearning.ai/courses/improving-accuracy-of-llm-applications)
 - [Function Calling and Data Extraction with LLMs](https://learn.deeplearning.ai/courses/function-calling-and-data-extraction-with-llms)
 - [Building LLM from Scratch](https://www.youtube.com/watch?v=4yNswvhPWCQ&list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+- [Fine-tune for function calling](https://huggingface.co/agents-course/notebooks/blob/main/bonus-unit1/bonus-unit1.ipynb)
 
 ### Code Repositories
 
