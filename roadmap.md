@@ -107,6 +107,7 @@
 - [Reinforcement Fine-tuning LLMs with GRPO](https://learn.deeplearning.ai/courses/reinforcement-fine-tuning-llms-grpo/lesson/sjbja/introduction)
 - [YouTube Video on AI Agents](https://www.youtube.com/watch?v=FLpS7OfD5-s)
 - [Emerging Patterns for Building LLM-Based AI Agents](https://drive.google.com/file/d/1UEc-v0nNAgdmaZ031gcAZVHVaubGEW1b/view?usp=sharing)
+- [Student's note of Emerging Patterns for Building LLM-Based AI Agents](https://drive.google.com/file/d/1yaRNITEDTmnNYTjfXGhKwmWCzbD0w2o6/view?usp=sharing)
 
 ### Resources
 
