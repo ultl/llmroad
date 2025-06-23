@@ -121,3 +121,5 @@
 ## Generative AI
 
 - [DeepLearning.AI Generative AI Courses Guide](https://www.deeplearning.ai/resources/generative-ai-courses-guide/)
+
+- [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub)
