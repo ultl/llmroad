@@ -4,8 +4,8 @@
 
 - [GitHub Documentation](https://docs.github.com/en)
 - [Github Commit Conventions Cheatsheet](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-- Fast API, Fast API to-do list
 - LiteLLM
+- FastAPI
 
 ## Natural Language Processing
 
@@ -116,7 +116,7 @@
 - [Emerging Patterns for Building LLM-Based AI Agents](https://drive.google.com/file/d/1UEc-v0nNAgdmaZ031gcAZVHVaubGEW1b/view?usp=sharing)
 - [Student's note of Emerging Patterns for Building LLM-Based AI Agents](https://drive.google.com/file/d/1yaRNITEDTmnNYTjfXGhKwmWCzbD0w2o6/view?usp=sharing)
 
-### Resources
+### MORE Resources
 
 - [RAG Evaluation Guide](https://www.deepeval.com/guides/guides-rag-evaluation)
 - [All RAG Techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
@@ -131,3 +131,14 @@
 - [DeepLearning.AI Generative AI Courses Guide](https://www.deeplearning.ai/resources/generative-ai-courses-guide/)
 
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub)
+
+## FastAPI
+
+- [Complete FastAPI Course](https://github.com/codingwithroby/FastAPI-The-Complete-Course) -
+  Comprehensive tutorial covering all FastAPI fundamentals
+- [FastAPI Tutorial for Beginners](https://github.com/pixegami/fastapi-tutorial) -
+  Step-by-step guide to get started with FastAPI
+- [FastAPI Tutorial Series](https://github.com/MKFast/FastAPI-Tutorial) -
+  Structured learning path for FastAPI development
+- [Ultimate FastAPI Tutorial](https://github.com/ChristopherGS/ultimate-fastapi-tutorial) -
+  Advanced FastAPI concepts and best practices
