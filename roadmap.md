@@ -142,3 +142,21 @@
   Structured learning path for FastAPI development
 - [Ultimate FastAPI Tutorial](https://github.com/ChristopherGS/ultimate-fastapi-tutorial) -
   Advanced FastAPI concepts and best practices
+
+## NotebookLM inspired
+
+- [Open-notebook]https://github.com/lfnovo/open-notebook
+
+## GPT Chat app
+
+- [Gradio](https://www.gradio.app/guides/creating-a-chatbot-fast)
+- https://github.com/kammererN/jupyter-gpt
+- https://github.com/ahmadfaizalbh/Chatbot
+- https://github.com/FreeBirdsCrew/AI_ChatBot_Python
+- https://github.com/Andrew-Tsegaye/gpt4free
+- https://github.com/inforkgodara/python-chat-application
+- https://github.com/nandxorandor/chatbot_VS_chatbot
+- https://github.com/shz-code/chatbot-nltk
+- https://github.com/choudaryhussainali/llama3-streamlit-chatbot
+- https://github.com/jokruger/rl3chatbot
+- https://github.com/DaemonLab/chat-application
