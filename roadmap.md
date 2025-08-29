@@ -160,3 +160,4 @@
 - https://github.com/choudaryhussainali/llama3-streamlit-chatbot
 - https://github.com/jokruger/rl3chatbot
 - https://github.com/DaemonLab/chat-application
+- LM Studio
